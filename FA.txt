@@ -1,7 +1,3 @@
 Bonjour Andre
-<<<<<<< HEAD
-Aurevoir Adam
-=======
-
+Aurevoir Andre
 Conflit Adam
->>>>>>> 8a4dd0d2b537acec22a82952a20a30607c0abcb8
